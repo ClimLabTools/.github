@@ -20,7 +20,7 @@ Please add your existing repos you prefer to keep associated with your private a
 
 ## OGGM
 
-- 🧊 [oggm_tools](https://github.com/ClimLabTools/oggm_tools) - Useful notebooks and scripts beyond the tutorials published on the [OGGM website](https://tutorials.oggm.org/stable). Check repo `README` for more details on available resources
+- 🧊 [OGGM Workflows](https://github.com/ClimLabTools/oggm_tools) - Useful notebooks and scripts beyond the tutorials published on the [OGGM website](https://tutorials.oggm.org/stable). Check repo `README` for more details on available resources
 
 ## Google Earth Engine
 
