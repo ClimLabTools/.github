@@ -1,9 +1,12 @@
 # Code Collection of the Climate Geography Lab
-### Humboldt-University Berlin 
+### Humboldt-Universität zu Berlin 
 
 Please add your existing repos you prefer to keep associated with your private account below via hyperlink. New repositories or imports should be added as organizational repos.
 
 ## ICON
+
+- ⚙️ [ICON Processor](https://github.com/ClimLabTools/ICONProcessor) – installable library to extract, convert and visualize ICON data (grid, model output, meteogram, ...)
+- 🔧 [ICON Tools](https://github.com/ClimLabTools/ICON_Tools) - useful scripts to covert and process ICON model outputs
 
 ## COSIPY
 
