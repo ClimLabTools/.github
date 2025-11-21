@@ -5,8 +5,8 @@ Please add your existing repos you prefer to keep associated with your private a
 
 ## ICON
 
-- ⚙️ [ICON Processor](https://github.com/ClimLabTools/ICONProcessor) – installable library to extract, convert and visualize ICON data (grid, model output, meteogram, ...)
-- 🔧 [ICON Tools](https://github.com/ClimLabTools/ICON_Tools) - useful scripts to covert and process ICON model outputs
+- ⚙️ [ICON Processor](https://github.com/ClimLabTools/ICONProcessor) – Installable library to extract, convert and visualize ICON data (grid, model output, meteogram, ...)
+- 🔧 [ICON Tools](https://github.com/ClimLabTools/ICON_Tools) - Useful scripts to covert and process ICON model outputs
 
 ## COSIPY
 
@@ -18,7 +18,9 @@ Please add your existing repos you prefer to keep associated with your private a
 - 📘 [MATILDA Online Source](https://github.com/matilda-online/jbook) – Source code for the MATILDA Online website  
 
 
-## GLaMOR
+## OGGM
+
+- 🧊 [oggm_tools](https://github.com/ClimLabTools/oggm_tools) - Useful notebooks and scripts beyond the tutorials published on the [OGGM website](https://tutorials.oggm.org/stable). Check repo `README` for more details on available resources
 
 ## Google Earth Engine
 
