@@ -22,6 +22,7 @@ Please add your existing repos you prefer to keep associated with your private a
 
 ## Google Earth Engine
 
+- 🌦️ [GEE-Tools for Climate GEEography](https://github.com/ClimLabTools/gee-tools) - Collection of handy tools to process and download data earth-system modeling from Google Earth Engine
 - 🌍 [Discrete Climate Scenarios](https://github.com/phiscu/discrete_climate_scenarios) – Code to download, process and, bias adjust CMIP6 climate scenario data from Google Earth Enginefor individual weather station locations
 - 📡 [CHELSA-NEX Downloader](https://github.com/phiscu/chelsa-nex) – This workflow aggregates NEX-GDDP-CMIP6 data to discrete spatial polygons and applies scaled distribution mapping using CHELSA-W5E5 as a reference. It processes precipitation, temperature, and radiation for modeling applications.
 
