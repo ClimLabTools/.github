@@ -7,6 +7,7 @@ Please add your existing repos you prefer to keep associated with your private a
 
 - ⚙️ [ICON Processor](https://github.com/ClimLabTools/ICONProcessor) – Installable library to extract, convert and visualize ICON data (grid, model output, meteogram, ...)
 - 🔧 [ICON Tools](https://github.com/ClimLabTools/ICON_Tools) - Useful scripts to covert and process ICON model outputs
+- 🔎 [ICON Validation](https://github.com/ClimLabTools/icon_validation) - Data and scripts for validation of ICON-LES with observations from HEFEX field campaigns (DOI: tba)
 
 ## COSIPY
 
